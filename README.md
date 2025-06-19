@@ -5,7 +5,6 @@
 
 [![Qt](https://img.shields.io/badge/Qt-5.15%2B-green?logo=qt)](https://www.qt.io/)  
 [![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B)](https://isocpp.org/)  
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
 [![Build](https://img.shields.io/badge/build-QMake-blue)](https://doc.qt.io/qt-6/qmake-manual.html)  
 
 ## 📌 About  
@@ -22,7 +21,7 @@ Password Manager is a desktop application that provides:
 - C++17 compatible compiler  
 
 ### Building from Source  
-bash
+```
 git clone https://github.com/Giffulf/PasswordManager.git
 cd PasswordManager
 
@@ -32,6 +31,7 @@ make
 
 # Run the application
 ./PasswordManager
+```
 
 ## 🛠 Technologies  
 
